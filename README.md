@@ -24,7 +24,9 @@ With a strong interest in both design and backend architecture, I enjoy building
 
 ## 🛠️ Languages & Tools
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,php,codeigniter,react,nextjs,mysql)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,codeigniter,react,nextjs,mysql" />
+</p>
 
 ---
 
