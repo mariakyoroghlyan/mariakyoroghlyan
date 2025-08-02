@@ -1,16 +1,36 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**mariakyoroghlyan/mariakyoroghlyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Maria, a passionate full-stack developer.  
+Welcome to my GitHub profile — here you can explore my projects, experience, and the tools I love using!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+I'm a full-stack developer focused on crafting clean, user-friendly experiences.  
+With a strong interest in both design and backend architecture, I enjoy building elegant solutions that actually work.
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn] https://linkedin.com/in/YOUR_LINK_HERE](https://www.linkedin.com/in/maria-kyoroghlyan-98a6712b7/
+- 🛠️ [Upwork] https://www.upwork.com/freelancers/~01852565dbe0446db8?mp_source=share
+- 🛠️ [Fiverr] https://www.fiverr.com/s/vvkWGP1
+
+---
+
+## 🚀 Technologies & Tools
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+
+---
+
+_Thanks for stopping by! Feel free to explore my repos or reach out for collaboration 🤝_
