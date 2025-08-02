@@ -1,14 +1,15 @@
-# Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile!
 
-Hey there! I'm Maria, a passionate full-stack developer.  
-Welcome to my GitHub profile — here you can explore my projects, experience, and the tools I love using!
+Hi! I'm **Maria Kyoroghlyan**, a passionate full-stack developer from Armenia 🇦🇲  
+I specialize in building modern, responsive web applications with a strong focus on design and performance.
 
 ---
 
-## 💻 About Me
+## 🧠 About Me
 
-I'm a full-stack developer focused on crafting clean, user-friendly experiences.  
-With a strong interest in both design and backend architecture, I enjoy building elegant solutions that actually work.
+I'm a full-stack developer who thrives on turning complex problems into elegant solutions.  
+Whether it's crafting clean UIs or building powerful backend systems — I enjoy working across the stack.  
+Currently, I work with PHP (CodeIgniter), React, and Next.js, and I'm diving deeper into modern JavaScript and iOS development with Swift.
 
 ---
 
@@ -20,14 +21,22 @@ With a strong interest in both design and backend architecture, I enjoy building
 
 ---
 
-## 🚀 Technologies & Tools
-
-## 🛠️ Languages & Tools
+## 🚀 Languages & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,next,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,codeigniter,react,nextjs,mysql&theme=light" />
+</p>
+
+> 🔧 Other tools: Git, GitHub, VS Code, Figma, Postman
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariakyoroghlyan&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 ---
 
-_Thanks for stopping by! Feel free to explore my repos or reach out for collaboration 🤝_
+_✨ Thanks for visiting! Feel free to check out my repositories and don’t hesitate to connect 🤝_
