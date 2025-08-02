@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi! I'm **Maria Kyoroghlyan**, a passionate full-stack developer from Armenia 🇦🇲  
+Hi! I'm **Maria Kyoroghlyan**, a passionate full-stack developer
 I specialize in building modern, responsive web applications with a strong focus on design and performance.
 
 ---
@@ -9,7 +9,7 @@ I specialize in building modern, responsive web applications with a strong focus
 
 I'm a full-stack developer who thrives on turning complex problems into elegant solutions.  
 Whether it's crafting clean UIs or building powerful backend systems — I enjoy working across the stack.  
-Currently, I work with PHP (CodeIgniter), React, and Next.js, and I'm diving deeper into modern JavaScript and iOS development with Swift.
+Currently, I work with PHP (CodeIgniter), JavaScript, React, and Next.js.
 
 ---
 
@@ -24,18 +24,10 @@ Currently, I work with PHP (CodeIgniter), React, and Next.js, and I'm diving dee
 ## 🚀 Languages & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,codeigniter,react,nextjs,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,codeigniter,react,nextjs,mysql" />
 </p>
 
-> 🔧 Other tools: Git, GitHub, VS Code, Figma, Postman
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariakyoroghlyan&show_icons=true&theme=default&hide_border=true" />
-</p>
+> 🔧 Other tools: Git, GitHub, VS Code, Figma
 
 ---
 
