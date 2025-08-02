@@ -14,7 +14,7 @@ With a strong interest in both design and backend architecture, I enjoy building
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn] https://linkedin.com/in/YOUR_LINK_HERE](https://www.linkedin.com/in/maria-kyoroghlyan-98a6712b7/
+- 💼 [LinkedIn] https://www.linkedin.com/in/maria-kyoroghlyan-98a6712b7/
 - 🛠️ [Upwork] https://www.upwork.com/freelancers/~01852565dbe0446db8?mp_source=share
 - 🛠️ [Fiverr] https://www.fiverr.com/s/vvkWGP1
 
