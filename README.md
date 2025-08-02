@@ -24,7 +24,7 @@ Currently, I work with PHP (CodeIgniter), JavaScript, React, and Next.js.
 ## 🚀 Languages & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,codeigniter,react,nextjs,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,mysql" />
 </p>
 
 > 🔧 Other tools: Git, GitHub, VS Code, Figma
